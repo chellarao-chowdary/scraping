@@ -1,6 +1,6 @@
 # scraping
 
-** Pre-requisites: **
+# Pre-requisites: 
 
 Step 1: Find the URL that you want to scrape
 
